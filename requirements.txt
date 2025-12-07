@@ -1,0 +1,5 @@
+requests>=2.31.0
+PyInstaller>=5.13.0
+pywin32>=306; sys_platform == 'win32'
+pillow>=10.0.0
+
